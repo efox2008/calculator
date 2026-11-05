@@ -8,3 +8,4 @@ Stop with Ctrl+C
 Check startup in another folder with :
 cd ~
 ~/h-drive/calculator
+./check.sh - say all 5 tests pass when ran
